@@ -1,7 +1,7 @@
 # 📅 Daily
 
-[![CI](https://github.com/pexcn/daily/workflows/CI/badge.svg)](https://github.com/pexcn/daily/actions)
-[![CDN](https://data.jsdelivr.com/v1/package/gh/pexcn/daily/badge/day)](https://cdn.jsdelivr.net/gh/pexcn/daily@gh-pages/)
+[![CI](https://github.com/hanakoNya/Route_and_List/workflows/CI/badge.svg)](https://github.com/hanakoNya/Route_and_List/actions)
+[![CDN](https://data.jsdelivr.com/v1/package/gh/hanakoNya/Route_and_List/badge/day)](https://cdn.jsdelivr.net/gh/hanakoNya/Route_and_List@gh-pages/)
 
 This script can be automatically generate something what you needed every day.
 
@@ -9,27 +9,27 @@ This script can be automatically generate something what you needed every day.
 
 ## 🍭 Lists
 
-- [`adlist/adlist.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/adlist/adlist.txt)
-- [`adblock/adblock.conf`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/adblock/adblock.conf)
-- [`chnroute/chnroute.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/chnroute/chnroute.txt)
-- [`chnroute/chnroute6.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/chnroute/chnroute6.txt)
-- [`chinalist/chinalist.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/chinalist/chinalist.txt)
-- [`gfwlist/gfwlist.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt)
-- [`pac/gfwlist.pac`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/pac/gfwlist.pac)
-- [`pac/whitelist.pac`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/pac/whitelist.pac)
-- [`shadowrocket/gfwlist.conf`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/shadowrocket/gfwlist.conf)
-- [`shadowrocket/whitelist.conf`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/shadowrocket/whitelist.conf)
-- [`trackerlist/trackerlist.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/trackerlist/trackerlist.txt)
-- [`trackerlist/trackerlist-best.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/trackerlist/trackerlist-best.txt)
-- [`trackerlist/trackerlist-aria2.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/trackerlist/trackerlist-aria2.txt)
-- [`trackerlist/trackerlist-best-aria2.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/trackerlist/trackerlist-best-aria2.txt)
-- [`ublacklist/ublacklist.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/ublacklist/ublacklist.txt)
+- [`adlist/adlist.txt`](https://raw.githubusercontent.com/hanakoNya/Route_and_List/gh-pages/adlist/adlist.txt)
+- [`adblock/adblock.conf`](https://raw.githubusercontent.com/hanakoNya/Route_and_List/gh-pages/adblock/adblock.conf)
+- [`chnroute/chnroute.txt`](https://raw.githubusercontent.com/hanakoNya/Route_and_List/gh-pages/chnroute/chnroute.txt)
+- [`chnroute/chnroute6.txt`](https://raw.githubusercontent.com/hanakoNya/Route_and_List/gh-pages/chnroute/chnroute6.txt)
+- [`chinalist/chinalist.txt`](https://raw.githubusercontent.com/hanakoNya/Route_and_List/gh-pages/chinalist/chinalist.txt)
+- [`gfwlist/gfwlist.txt`](https://raw.githubusercontent.com/hanakoNya/Route_and_List/gh-pages/gfwlist/gfwlist.txt)
+- [`pac/gfwlist.pac`](https://raw.githubusercontent.com/hanakoNya/Route_and_List/gh-pages/pac/gfwlist.pac)
+- [`pac/whitelist.pac`](https://raw.githubusercontent.com/hanakoNya/Route_and_List/gh-pages/pac/whitelist.pac)
+- [`shadowrocket/gfwlist.conf`](https://raw.githubusercontent.com/hanakoNya/Route_and_List/gh-pages/shadowrocket/gfwlist.conf)
+- [`shadowrocket/whitelist.conf`](https://raw.githubusercontent.com/hanakoNya/Route_and_List/gh-pages/shadowrocket/whitelist.conf)
+- [`trackerlist/trackerlist.txt`](https://raw.githubusercontent.com/hanakoNya/Route_and_List/gh-pages/trackerlist/trackerlist.txt)
+- [`trackerlist/trackerlist-best.txt`](https://raw.githubusercontent.com/hanakoNya/Route_and_List/gh-pages/trackerlist/trackerlist-best.txt)
+- [`trackerlist/trackerlist-aria2.txt`](https://raw.githubusercontent.com/hanakoNya/Route_and_List/gh-pages/trackerlist/trackerlist-aria2.txt)
+- [`trackerlist/trackerlist-best-aria2.txt`](https://raw.githubusercontent.com/hanakoNya/Route_and_List/gh-pages/trackerlist/trackerlist-best-aria2.txt)
+- [`ublacklist/ublacklist.txt`](https://raw.githubusercontent.com/hanakoNya/Route_and_List/gh-pages/ublacklist/ublacklist.txt)
 
-***Note: The [`pac`](https://github.com/pexcn/daily/tree/gh-pages/pac) list is only designed for [SwithcyOmega](https://github.com/FelisCatus/SwitchyOmega).***
+***Note: The [`pac`](https://github.com/hanakoNya/Route_and_List/tree/gh-pages/pac) list is only designed for [SwithcyOmega](https://github.com/FelisCatus/SwitchyOmega).***
 
 ### ~~💡 Tips~~
 
-~~Visit via [jsDelivr CDN](https://cdn.jsdelivr.net/gh/pexcn/daily@gh-pages/).~~
+~~Visit via [jsDelivr CDN](https://cdn.jsdelivr.net/gh/hanakoNya/Route_and_List@gh-pages/).~~
 
 ### 📡 OpenWrt
 
