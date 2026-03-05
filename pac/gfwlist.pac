@@ -1,5 +1,5 @@
 //
-// Update: 2026-03-04 02:39:52
+// Update: 2026-03-06 03:11:58
 //
 
 const proxy = "SOCKS5 127.0.0.1:1080;";
@@ -585,6 +585,7 @@ const gfwlist_domains = {
   "tunnelbear.com": 1,
   "googlecommerce.com": 1,
   "bet365.com": 1,
+  "economist.com": 1,
   "euronews.com": 1,
   "anchor.fm": 1,
   "cdw.com": 1,
@@ -1051,7 +1052,6 @@ const gfwlist_domains = {
   "relay.firefox.com": 1,
   "solscan.io": 1,
   "now.com": 1,
-  "zaobao.com.sg": 1,
   "dongtaiwang.com": 1,
   "hdzog.com": 1,
   "img.ly": 1,
@@ -2496,6 +2496,7 @@ const gfwlist_domains = {
   "ifan.cz.cc": 1,
   "mike.cz.cc": 1,
   "nic.cz.cc": 1,
+  "download.dappcdn.com": 1,
   "darmau.co": 1,
   "dockerstatus.com": 1,
   "ddex.io": 1,
