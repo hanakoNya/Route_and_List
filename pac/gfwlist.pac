@@ -1,5 +1,5 @@
 //
-// Update: 2026-03-08 02:25:30
+// Update: 2026-03-09 02:25:31
 //
 
 const proxy = "SOCKS5 127.0.0.1:1080;";
@@ -3539,6 +3539,7 @@ const gfwlist_domains = {
   "rti.tw": 1,
   "rusvpn.com": 1,
   "rxhj.net": 1,
+  "shitjournal.org": 1,
   "stephaniered.com": 1,
   "simianx.ai": 1,
   "steamladder.com": 1,
