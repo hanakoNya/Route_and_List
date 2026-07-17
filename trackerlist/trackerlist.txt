@@ -109,10 +109,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://retracker01-msk-virt.corbina.net:80/announce
-http://supertracker.cc.cd:80/announce
 http://torrentsmd.com:8080/announce
 http://tracker.opentorrent.top:6969/announce
-http://tracker.plx.im:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker1.itzmx.com:8080/announce
@@ -124,7 +122,6 @@ https://banananetwork.qzz.io:443/announce
 https://ht.therarbg.to:443/announce
 https://orgtgju.org:443/announce
 https://tr.abiir.top:443/announce
-https://tr.abir.ga:443/announce
 https://tracker.adgk.net:443/announce
 https://tracker.anibt.net:443/announce
 https://tracker.foreverpirates.co:443/announce
@@ -145,6 +142,7 @@ udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 udp://retracker.hotplug.ru:2710/announce
+udp://seedpeer.net:6969/announce
 udp://torrentclub.online:1984/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://tracker.bluefrog.pw:2710/announce
