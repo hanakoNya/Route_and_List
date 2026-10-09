@@ -25,11 +25,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://torrentsmd.com:8080/announce
 http://tracker.dhitechnical.com:6969/announce
-http://tracker.dler.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.waaa.moe:6969/announce
 http://www.wareztorrent.com:80/announce
-https://004430.xyz:443/announce
 https://1.tracker.eu.org:443/announce
 https://1337.abcvg.info:443/announce
 https://t.213891.xyz:443/announce
@@ -66,7 +64,6 @@ udp://tracker.nyaa.net:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.skyts.net:6969/announce
-udp://tracker.tryhackx.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.willy.pro:6969/announce
 udp://v2.iperson.xyz:6969/announce
