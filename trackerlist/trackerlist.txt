@@ -102,6 +102,7 @@ udp://52.58.128.163:6969/announce
 udp://93.158.213.92:6969/announce
 udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
+udp://announce.augrains.com:6969/announce
 udp://bt-tracker.de:6969/announce
 udp://discover.curiousfacts.blog:6969/announce
 udp://ipv6.govt.hu:6969/announce
